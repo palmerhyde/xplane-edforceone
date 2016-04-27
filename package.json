@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "johnny-five": "^0.9.39",
+    "xplane": "0.0.6"
+  }
+}
